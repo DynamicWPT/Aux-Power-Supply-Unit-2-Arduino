@@ -19,7 +19,7 @@ char data[64] = " ";
 
 void setup() {
   // put your setup code here, to run once:
-  delay(45000);
+  delay(40000);
 
   Serial.begin(9600);
 
